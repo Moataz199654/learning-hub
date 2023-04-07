@@ -1,4 +1,4 @@
 readme
 
 Wireframe Link
-https://wireframe.cc/pro/pp/7e2e0897e639002
+https://www.figma.com/file/Mmf02Qs9YETzAzQxuNzPew/Learning-Hub-Wireframe?node-id=0%3A1&t=m3hPAVcVd8SjDlhd-1
